@@ -5,10 +5,15 @@
 | -- | -- | -- | -- | -- |
 | Junior Frontend Developer | - | [https://iwdath.github.io/](https://https://iwdath.github.io/) | Ukraine | - |
 
-## Followers <kbd>16</kbd>
+## Followers <kbd>17</kbd>
 
 <table width="100%">
   <tr width="100%">
+    <td width="10%" align="center">
+      <a href="https://github.com/svorha">
+        <img src="https://avatars.githubusercontent.com/u/149009778?v=4" />
+      </a>
+    </td>
     <td width="10%" align="center">
       <a href="https://github.com/hasanyalsiz">
         <img src="https://avatars.githubusercontent.com/u/132101909?v=4" />
@@ -54,12 +59,12 @@
         <img src="https://avatars.githubusercontent.com/u/72893853?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/Thizh">
         <img src="https://avatars.githubusercontent.com/u/70251552?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/Clint171">
         <img src="https://avatars.githubusercontent.com/u/69381872?v=4" />
@@ -89,8 +94,6 @@
       <a href="https://github.com/HeyHeyChicken">
         <img src="https://avatars.githubusercontent.com/u/33424294?v=4" />
       </a>
-    </td>
-    <td width="10%" align="center">
     </td>
     <td width="10%" align="center">
     </td>
