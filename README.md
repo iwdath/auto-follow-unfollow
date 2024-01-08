@@ -61,6 +61,11 @@
     </td>
   </tr><tr width="100%">
     <td width="10%" align="center">
+      <a href="https://github.com/Huniko519">
+        <img src="https://avatars.githubusercontent.com/u/71299022?v=4" />
+      </a>
+    </td>
+    <td width="10%" align="center">
       <a href="https://github.com/Thizh">
         <img src="https://avatars.githubusercontent.com/u/70251552?v=4" />
       </a>
@@ -88,11 +93,6 @@
     <td width="10%" align="center">
       <a href="https://github.com/PremChapagain">
         <img src="https://avatars.githubusercontent.com/u/47587012?v=4" />
-      </a>
-    </td>
-    <td width="10%" align="center">
-      <a href="https://github.com/HeyHeyChicken">
-        <img src="https://avatars.githubusercontent.com/u/33424294?v=4" />
       </a>
     </td>
     <td width="10%" align="center">
