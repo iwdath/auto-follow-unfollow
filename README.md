@@ -5,7 +5,7 @@
 | -- | -- | -- | -- | -- |
 | Junior Frontend Developer | - | [https://iwdath.github.io/](https://https://iwdath.github.io/) | Ukraine | - |
 
-## Followers <kbd>17</kbd>
+## Followers <kbd>18</kbd>
 
 <table width="100%">
   <tr width="100%">
@@ -61,6 +61,11 @@
     </td>
   </tr><tr width="100%">
     <td width="10%" align="center">
+      <a href="https://github.com/JohnMwendwa">
+        <img src="https://avatars.githubusercontent.com/u/72663882?v=4" />
+      </a>
+    </td>
+    <td width="10%" align="center">
       <a href="https://github.com/Huniko519">
         <img src="https://avatars.githubusercontent.com/u/71299022?v=4" />
       </a>
@@ -94,8 +99,6 @@
       <a href="https://github.com/PremChapagain">
         <img src="https://avatars.githubusercontent.com/u/47587012?v=4" />
       </a>
-    </td>
-    <td width="10%" align="center">
     </td>
     <td width="10%" align="center">
     </td>
