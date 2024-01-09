@@ -5,7 +5,7 @@
 | -- | -- | -- | -- | -- |
 | Junior Frontend Developer | - | [https://iwdath.github.io/](https://https://iwdath.github.io/) | Ukraine | - |
 
-## Followers <kbd>22</kbd>
+## Followers <kbd>23</kbd>
 
 <table width="100%">
   <tr width="100%">
@@ -122,6 +122,9 @@
       </a>
     </td>
     <td width="10%" align="center">
+      <a href="https://github.com/HeyHeyChicken">
+        <img src="https://avatars.githubusercontent.com/u/33424294?v=4" />
+      </a>
     </td>
     <td width="10%" align="center">
     </td>
