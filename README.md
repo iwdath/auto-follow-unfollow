@@ -1,19 +1,14 @@
 ## iwdath
 <img src="https://avatars.githubusercontent.com/u/75438184?v=4" width="150" />
 
-| Name | Bio | Blog | Location | Company |
+| Name | Bio | Portfolio | Location | Company |
 | -- | -- | -- | -- | -- |
-| Junior Frontend Developer | - | [https://iwdath.github.io/](https://https://iwdath.github.io/) | Ukraine | - |
+| Junior Frontend Developer | - | [https://iwdath.github.io/](https://iwdath.github.io/) | Ukraine | - |
 
-## Followers <kbd>26</kbd>
+## Followers <kbd>25</kbd>
 
 <table width="100%">
   <tr width="100%">
-    <td width="10%" align="center">
-      <a href="https://github.com/svorha">
-        <img src="https://avatars.githubusercontent.com/u/149009778?v=4" />
-      </a>
-    </td>
     <td width="10%" align="center">
       <a href="https://github.com/rabbaniha91">
         <img src="https://avatars.githubusercontent.com/u/141492190?v=4" />
@@ -59,12 +54,12 @@
         <img src="https://avatars.githubusercontent.com/u/112000395?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/mutasim77">
         <img src="https://avatars.githubusercontent.com/u/96326525?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/george0st">
         <img src="https://avatars.githubusercontent.com/u/95856749?v=4" />
@@ -110,12 +105,12 @@
         <img src="https://avatars.githubusercontent.com/u/69381872?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/AhmadrezaHamidi">
         <img src="https://avatars.githubusercontent.com/u/61118112?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/ip681">
         <img src="https://avatars.githubusercontent.com/u/48838737?v=4" />
@@ -140,6 +135,8 @@
       <a href="https://github.com/gamemann">
         <img src="https://avatars.githubusercontent.com/u/6509565?v=4" />
       </a>
+    </td>
+    <td width="10%" align="center">
     </td>
     <td width="10%" align="center">
     </td>
