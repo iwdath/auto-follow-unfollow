@@ -1,4 +1,4 @@
-name: Github-Auto-Follow-Unfollow-View-User-List
+name: github-auto-follow-unfollow-view-user-list
 
 on:
   workflow_dispatch:
@@ -9,8 +9,8 @@ jobs:
   auto-update:
     runs-on: ubuntu-latest
     steps:
-      - name: Github-Auto-Follow-Unfollow-View-User-List
-        uses: iwdath/Github-Auto-Follow-Unfollow-View-User-List@main
+      - name: github-auto-follow-unfollow-view-user-list
+        uses: iwdath/github-auto-follow-unfollow-view-user-list@main
         with:
           token: ${{ secrets.TOKEN }}
           repository: ${{ github.repository }}
