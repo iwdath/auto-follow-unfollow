@@ -5,10 +5,15 @@
 | -- | -- | -- | -- | -- |
 | Junior Frontend Developer | - | [https://iwdath.github.io/](https://iwdath.github.io/) | Ukraine | - |
 
-## Followers <kbd>29</kbd>
+## Followers <kbd>30</kbd>
 
 <table width="100%">
   <tr width="100%">
+    <td width="10%" align="center">
+      <a href="https://github.com/stan8086">
+        <img src="https://avatars.githubusercontent.com/u/154884797?v=4" />
+      </a>
+    </td>
     <td width="10%" align="center">
       <a href="https://github.com/svorha">
         <img src="https://avatars.githubusercontent.com/u/149009778?v=4" />
@@ -54,12 +59,12 @@
         <img src="https://avatars.githubusercontent.com/u/115201845?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/victorpreston">
         <img src="https://avatars.githubusercontent.com/u/112781610?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/dafiliks">
         <img src="https://avatars.githubusercontent.com/u/112000395?v=4" />
@@ -105,12 +110,12 @@
         <img src="https://avatars.githubusercontent.com/u/72893853?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/JohnMwendwa">
         <img src="https://avatars.githubusercontent.com/u/72663882?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/Huniko519">
         <img src="https://avatars.githubusercontent.com/u/71299022?v=4" />
@@ -155,8 +160,6 @@
       <a href="https://github.com/gamemann">
         <img src="https://avatars.githubusercontent.com/u/6509565?v=4" />
       </a>
-    </td>
-    <td width="10%" align="center">
     </td>
   </tr>
 </table>
