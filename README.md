@@ -5,7 +5,7 @@
 | -- | -- | -- | -- | -- |
 | Junior Frontend Developer | - | [https://iwdath.github.io/](https://iwdath.github.io/) | Ukraine | - |
 
-## Followers <kbd>31</kbd>
+## Followers <kbd>32</kbd>
 
 <table width="100%">
   <tr width="100%">
@@ -163,11 +163,14 @@
     </td>
   </tr><tr width="100%">
     <td width="10%" align="center">
-      <a href="https://github.com/gamemann">
-        <img src="https://avatars.githubusercontent.com/u/6509565?v=4" />
+      <a href="https://github.com/Ujjawalmaurya">
+        <img src="https://avatars.githubusercontent.com/u/34861422?v=4" />
       </a>
     </td>
     <td width="10%" align="center">
+      <a href="https://github.com/gamemann">
+        <img src="https://avatars.githubusercontent.com/u/6509565?v=4" />
+      </a>
     </td>
     <td width="10%" align="center">
     </td>
