@@ -5,7 +5,7 @@
 | -- | -- | -- | -- | -- |
 | Junior Frontend Developer | - | [https://iwdath.github.io/](https://iwdath.github.io/) | Ukraine | - |
 
-## Followers <kbd>38</kbd>
+## Followers <kbd>39</kbd>
 
 <table width="100%">
   <tr width="100%">
@@ -86,6 +86,11 @@
       </a>
     </td>
     <td width="10%" align="center">
+      <a href="https://github.com/farhan7reza7">
+        <img src="https://avatars.githubusercontent.com/u/108195448?v=4" />
+      </a>
+    </td>
+    <td width="10%" align="center">
       <a href="https://github.com/ayeshanweerasuriya">
         <img src="https://avatars.githubusercontent.com/u/98686381?v=4" />
       </a>
@@ -105,12 +110,12 @@
         <img src="https://avatars.githubusercontent.com/u/96326525?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/george0st">
         <img src="https://avatars.githubusercontent.com/u/95856749?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/Panther-12">
         <img src="https://avatars.githubusercontent.com/u/87605179?v=4" />
@@ -156,12 +161,12 @@
         <img src="https://avatars.githubusercontent.com/u/69381872?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/AhmadrezaHamidi">
         <img src="https://avatars.githubusercontent.com/u/61118112?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/rahman-O">
         <img src="https://avatars.githubusercontent.com/u/56340698?v=4" />
@@ -201,8 +206,6 @@
       <a href="https://github.com/kenjinote">
         <img src="https://avatars.githubusercontent.com/u/2605401?v=4" />
       </a>
-    </td>
-    <td width="10%" align="center">
     </td>
     <td width="10%" align="center">
     </td>
