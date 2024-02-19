@@ -5,7 +5,7 @@
 | -- | -- | -- | -- | -- |
 | Frontend Developer | - | [https://iwdath.github.io/](https://iwdath.github.io/) | Ukraine | - |
 
-## Followers <kbd>57</kbd>
+## Followers <kbd>58</kbd>
 
 <table width="100%">
   <tr width="100%">
@@ -285,6 +285,11 @@
       </a>
     </td>
     <td width="10%" align="center">
+      <a href="https://github.com/jughoor">
+        <img src="https://avatars.githubusercontent.com/u/16518659?v=4" />
+      </a>
+    </td>
+    <td width="10%" align="center">
       <a href="https://github.com/unmitra">
         <img src="https://avatars.githubusercontent.com/u/8395463?v=4" />
       </a>
@@ -298,8 +303,6 @@
       <a href="https://github.com/kenjinote">
         <img src="https://avatars.githubusercontent.com/u/2605401?v=4" />
       </a>
-    </td>
-    <td width="10%" align="center">
     </td>
     <td width="10%" align="center">
     </td>
