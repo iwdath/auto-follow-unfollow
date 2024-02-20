@@ -5,7 +5,7 @@
 | -- | -- | -- | -- | -- |
 | Frontend Developer | - | [https://iwdath.github.io/](https://iwdath.github.io/) | Ukraine | - |
 
-## Followers <kbd>58</kbd>
+## Followers <kbd>59</kbd>
 
 <table width="100%">
   <tr width="100%">
@@ -178,6 +178,11 @@
       </a>
     </td>
     <td width="10%" align="center">
+      <a href="https://github.com/devbluecomet">
+        <img src="https://avatars.githubusercontent.com/u/92864027?v=4" />
+      </a>
+    </td>
+    <td width="10%" align="center">
       <a href="https://github.com/Panther-12">
         <img src="https://avatars.githubusercontent.com/u/87605179?v=4" />
       </a>
@@ -207,12 +212,12 @@
         <img src="https://avatars.githubusercontent.com/u/72893853?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/JohnMwendwa">
         <img src="https://avatars.githubusercontent.com/u/72663882?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/Huniko519">
         <img src="https://avatars.githubusercontent.com/u/71299022?v=4" />
@@ -258,12 +263,12 @@
         <img src="https://avatars.githubusercontent.com/u/56340698?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/ip681">
         <img src="https://avatars.githubusercontent.com/u/48838737?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/StevenKamwaza">
         <img src="https://avatars.githubusercontent.com/u/48084787?v=4" />
@@ -303,8 +308,6 @@
       <a href="https://github.com/kenjinote">
         <img src="https://avatars.githubusercontent.com/u/2605401?v=4" />
       </a>
-    </td>
-    <td width="10%" align="center">
     </td>
     <td width="10%" align="center">
     </td>
