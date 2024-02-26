@@ -101,21 +101,16 @@
       </a>
     </td>
     <td width="10%" align="center">
-      <a href="https://github.com/hamzalodhi2023">
-        <img src="https://avatars.githubusercontent.com/u/134397582?v=4" />
-      </a>
-    </td>
-    <td width="10%" align="center">
       <a href="https://github.com/sudoboyy">
         <img src="https://avatars.githubusercontent.com/u/134145898?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/waltertaya">
         <img src="https://avatars.githubusercontent.com/u/126944679?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/mouadchahid1">
         <img src="https://avatars.githubusercontent.com/u/126794276?v=4" />
@@ -161,12 +156,12 @@
         <img src="https://avatars.githubusercontent.com/u/115201845?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/Jovanysfive">
         <img src="https://avatars.githubusercontent.com/u/115149298?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/dafiliks">
         <img src="https://avatars.githubusercontent.com/u/112000395?v=4" />
@@ -212,12 +207,12 @@
         <img src="https://avatars.githubusercontent.com/u/84658436?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/getintorj">
         <img src="https://avatars.githubusercontent.com/u/84499372?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/johncarlosofficial">
         <img src="https://avatars.githubusercontent.com/u/79121349?v=4" />
@@ -246,6 +241,11 @@
     <td width="10%" align="center">
       <a href="https://github.com/Clint171">
         <img src="https://avatars.githubusercontent.com/u/69381872?v=4" />
+      </a>
+    </td>
+    <td width="10%" align="center">
+      <a href="https://github.com/H-K-R">
+        <img src="https://avatars.githubusercontent.com/u/69351423?v=4" />
       </a>
     </td>
     <td width="10%" align="center">
