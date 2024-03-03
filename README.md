@@ -5,7 +5,7 @@
 | -- | -- | -- | -- | -- |
 | Frontend Developer | - | [https://iwdath.github.io/](https://iwdath.github.io/) | Ukraine | - |
 
-## Followers <kbd>70</kbd>
+## Followers <kbd>71</kbd>
 
 <table width="100%">
   <tr width="100%">
@@ -229,6 +229,11 @@
       </a>
     </td>
     <td width="10%" align="center">
+      <a href="https://github.com/devbluecomet">
+        <img src="https://avatars.githubusercontent.com/u/92864027?v=4" />
+      </a>
+    </td>
+    <td width="10%" align="center">
       <a href="https://github.com/ethanflower1903">
         <img src="https://avatars.githubusercontent.com/u/84658436?v=4" />
       </a>
@@ -258,12 +263,12 @@
         <img src="https://avatars.githubusercontent.com/u/71299022?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/kimjunsung04">
         <img src="https://avatars.githubusercontent.com/u/70435510?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/Thizh">
         <img src="https://avatars.githubusercontent.com/u/70251552?v=4" />
@@ -309,12 +314,12 @@
         <img src="https://avatars.githubusercontent.com/u/56340698?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/ip681">
         <img src="https://avatars.githubusercontent.com/u/48838737?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/StevenKamwaza">
         <img src="https://avatars.githubusercontent.com/u/48084787?v=4" />
@@ -360,10 +365,29 @@
         <img src="https://avatars.githubusercontent.com/u/3586967?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/kenjinote">
         <img src="https://avatars.githubusercontent.com/u/2605401?v=4" />
       </a>
+    </td>
+    <td width="10%" align="center">
+    </td>
+    <td width="10%" align="center">
+    </td>
+    <td width="10%" align="center">
+    </td>
+    <td width="10%" align="center">
+    </td>
+    <td width="10%" align="center">
+    </td>
+    <td width="10%" align="center">
+    </td>
+    <td width="10%" align="center">
+    </td>
+    <td width="10%" align="center">
+    </td>
+    <td width="10%" align="center">
     </td>
   </tr>
 </table>
