@@ -5,7 +5,7 @@
 | -- | -- | -- | -- | -- |
 | Frontend Developer | - | [iwdath@gmail.com](iwdath@gmail.com) | Ukraine | - |
 
-## Followers <kbd>69</kbd>
+## Followers <kbd>70</kbd>
 
 <table width="100%">
   <tr width="100%">
@@ -265,6 +265,11 @@
     </td>
   </tr><tr width="100%">
     <td width="10%" align="center">
+      <a href="https://github.com/diaspd">
+        <img src="https://avatars.githubusercontent.com/u/71470442?v=4" />
+      </a>
+    </td>
+    <td width="10%" align="center">
       <a href="https://github.com/Huniko519">
         <img src="https://avatars.githubusercontent.com/u/71299022?v=4" />
       </a>
@@ -309,12 +314,12 @@
         <img src="https://avatars.githubusercontent.com/u/48838737?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/StevenKamwaza">
         <img src="https://avatars.githubusercontent.com/u/48084787?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/vickkie">
         <img src="https://avatars.githubusercontent.com/u/43224578?v=4" />
@@ -359,8 +364,6 @@
       <a href="https://github.com/kenjinote">
         <img src="https://avatars.githubusercontent.com/u/2605401?v=4" />
       </a>
-    </td>
-    <td width="10%" align="center">
     </td>
   </tr>
 </table>
