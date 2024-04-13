@@ -137,11 +137,6 @@
       </a>
     </td>
     <td width="10%" align="center">
-      <a href="https://github.com/TheSonOfSocrates">
-        <img src="https://avatars.githubusercontent.com/u/130851533?v=4" />
-      </a>
-    </td>
-    <td width="10%" align="center">
       <a href="https://github.com/ProgrammerDATCH">
         <img src="https://avatars.githubusercontent.com/u/128073754?v=4" />
       </a>
@@ -161,12 +156,12 @@
         <img src="https://avatars.githubusercontent.com/u/125741912?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/Rodrigo-Cn">
         <img src="https://avatars.githubusercontent.com/u/125518378?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/codeabuu">
         <img src="https://avatars.githubusercontent.com/u/125456974?v=4" />
@@ -195,6 +190,11 @@
     <td width="10%" align="center">
       <a href="https://github.com/seo-asif">
         <img src="https://avatars.githubusercontent.com/u/120080710?v=4" />
+      </a>
+    </td>
+    <td width="10%" align="center">
+      <a href="https://github.com/codeWithDavide">
+        <img src="https://avatars.githubusercontent.com/u/117844250?v=4" />
       </a>
     </td>
     <td width="10%" align="center">
