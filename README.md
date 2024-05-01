@@ -5,7 +5,7 @@
 | -- | -- | -- | -- | -- |
 | Frontend Dev | - | [https://iwdath.github.io/](https://iwdath.github.io/) | Ukraine | - |
 
-## Followers <kbd>75</kbd>
+## Followers <kbd>76</kbd>
 
 <table width="100%">
   <tr width="100%">
@@ -239,6 +239,11 @@
       </a>
     </td>
     <td width="10%" align="center">
+      <a href="https://github.com/sammorozov">
+        <img src="https://avatars.githubusercontent.com/u/109150200?v=4" />
+      </a>
+    </td>
+    <td width="10%" align="center">
       <a href="https://github.com/habibundayishimiye">
         <img src="https://avatars.githubusercontent.com/u/108430936?v=4" />
       </a>
@@ -258,12 +263,12 @@
         <img src="https://avatars.githubusercontent.com/u/97250816?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/biruk1122">
         <img src="https://avatars.githubusercontent.com/u/97092282?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/aldrshan">
         <img src="https://avatars.githubusercontent.com/u/97067957?v=4" />
@@ -309,12 +314,12 @@
         <img src="https://avatars.githubusercontent.com/u/70251552?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/Clint171">
         <img src="https://avatars.githubusercontent.com/u/69381872?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/abs0luty">
         <img src="https://avatars.githubusercontent.com/u/68709264?v=4" />
@@ -360,12 +365,12 @@
         <img src="https://avatars.githubusercontent.com/u/25842655?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/ysfmrbt">
         <img src="https://avatars.githubusercontent.com/u/20901880?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/IDouble">
         <img src="https://avatars.githubusercontent.com/u/18186995?v=4" />
@@ -390,8 +395,6 @@
       <a href="https://github.com/kenjinote">
         <img src="https://avatars.githubusercontent.com/u/2605401?v=4" />
       </a>
-    </td>
-    <td width="10%" align="center">
     </td>
     <td width="10%" align="center">
     </td>
