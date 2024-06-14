@@ -45,11 +45,6 @@
       </a>
     </td>
     <td width="10%" align="center">
-      <a href="https://github.com/korgu">
-        <img src="https://avatars.githubusercontent.com/u/160047604?v=4" />
-      </a>
-    </td>
-    <td width="10%" align="center">
       <a href="https://github.com/SheriefMostafa">
         <img src="https://avatars.githubusercontent.com/u/159604389?v=4" />
       </a>
@@ -59,12 +54,12 @@
         <img src="https://avatars.githubusercontent.com/u/157651920?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/james-gates-0212">
         <img src="https://avatars.githubusercontent.com/u/157581830?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/champion10873">
         <img src="https://avatars.githubusercontent.com/u/157318675?v=4" />
@@ -78,6 +73,11 @@
     <td width="10%" align="center">
       <a href="https://github.com/topone-engineer">
         <img src="https://avatars.githubusercontent.com/u/155702693?v=4" />
+      </a>
+    </td>
+    <td width="10%" align="center">
+      <a href="https://github.com/xfactor-toml">
+        <img src="https://avatars.githubusercontent.com/u/154992305?v=4" />
       </a>
     </td>
     <td width="10%" align="center">
