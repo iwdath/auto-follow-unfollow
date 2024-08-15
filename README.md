@@ -270,6 +270,11 @@
       </a>
     </td>
     <td width="10%" align="center">
+      <a href="https://github.com/xmoohad">
+        <img src="https://avatars.githubusercontent.com/u/114765028?v=4" />
+      </a>
+    </td>
+    <td width="10%" align="center">
       <a href="https://github.com/dafiliks">
         <img src="https://avatars.githubusercontent.com/u/112000395?v=4" />
       </a>
@@ -282,11 +287,6 @@
     <td width="10%" align="center">
       <a href="https://github.com/sajjad-salam">
         <img src="https://avatars.githubusercontent.com/u/110976991?v=4" />
-      </a>
-    </td>
-    <td width="10%" align="center">
-      <a href="https://github.com/sammorozov">
-        <img src="https://avatars.githubusercontent.com/u/109150200?v=4" />
       </a>
     </td>
     <td width="10%" align="center">
