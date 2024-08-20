@@ -5,7 +5,7 @@
 | -- | -- | -- | -- | -- |
 | iwdath | - | - | Ukraine | - |
 
-## Followers <kbd>91</kbd>
+## Followers <kbd>90</kbd>
 
 <table width="100%">
   <tr width="100%">
@@ -275,11 +275,6 @@
       </a>
     </td>
     <td width="10%" align="center">
-      <a href="https://github.com/xmoohad">
-        <img src="https://avatars.githubusercontent.com/u/114765028?v=4" />
-      </a>
-    </td>
-    <td width="10%" align="center">
       <a href="https://github.com/dafiliks">
         <img src="https://avatars.githubusercontent.com/u/112000395?v=4" />
       </a>
@@ -314,12 +309,12 @@
         <img src="https://avatars.githubusercontent.com/u/97250816?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/biruk1122">
         <img src="https://avatars.githubusercontent.com/u/97092282?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/aldrshan">
         <img src="https://avatars.githubusercontent.com/u/97067957?v=4" />
@@ -365,12 +360,12 @@
         <img src="https://avatars.githubusercontent.com/u/72893853?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/JohnMwendwa">
         <img src="https://avatars.githubusercontent.com/u/72663882?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/Huniko519">
         <img src="https://avatars.githubusercontent.com/u/71299022?v=4" />
@@ -416,12 +411,12 @@
         <img src="https://avatars.githubusercontent.com/u/48838737?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/StevenKamwaza">
         <img src="https://avatars.githubusercontent.com/u/48084787?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/vickkie">
         <img src="https://avatars.githubusercontent.com/u/43224578?v=4" />
@@ -467,29 +462,10 @@
         <img src="https://avatars.githubusercontent.com/u/6509565?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/kenjinote">
         <img src="https://avatars.githubusercontent.com/u/2605401?v=4" />
       </a>
-    </td>
-    <td width="10%" align="center">
-    </td>
-    <td width="10%" align="center">
-    </td>
-    <td width="10%" align="center">
-    </td>
-    <td width="10%" align="center">
-    </td>
-    <td width="10%" align="center">
-    </td>
-    <td width="10%" align="center">
-    </td>
-    <td width="10%" align="center">
-    </td>
-    <td width="10%" align="center">
-    </td>
-    <td width="10%" align="center">
     </td>
   </tr>
 </table>
