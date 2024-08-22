@@ -5,7 +5,7 @@
 | -- | -- | -- | -- | -- |
 | iwdath | - | - | Ukraine | - |
 
-## Followers <kbd>94</kbd>
+## Followers <kbd>95</kbd>
 
 <table width="100%">
   <tr width="100%">
@@ -397,6 +397,11 @@
       </a>
     </td>
     <td width="10%" align="center">
+      <a href="https://github.com/heizshubham">
+        <img src="https://avatars.githubusercontent.com/u/69081168?v=4" />
+      </a>
+    </td>
+    <td width="10%" align="center">
       <a href="https://github.com/morganm94">
         <img src="https://avatars.githubusercontent.com/u/68848623?v=4" />
       </a>
@@ -411,12 +416,12 @@
         <img src="https://avatars.githubusercontent.com/u/63997331?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/Daynlight">
         <img src="https://avatars.githubusercontent.com/u/62157770?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/rahman-O">
         <img src="https://avatars.githubusercontent.com/u/56340698?v=4" />
@@ -462,12 +467,12 @@
         <img src="https://avatars.githubusercontent.com/u/18186995?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/jughoor">
         <img src="https://avatars.githubusercontent.com/u/16518659?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/unmitra">
         <img src="https://avatars.githubusercontent.com/u/8395463?v=4" />
@@ -487,8 +492,6 @@
       <a href="https://github.com/kenjinote">
         <img src="https://avatars.githubusercontent.com/u/2605401?v=4" />
       </a>
-    </td>
-    <td width="10%" align="center">
     </td>
     <td width="10%" align="center">
     </td>
